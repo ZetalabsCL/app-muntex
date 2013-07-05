@@ -13,7 +13,7 @@ return array(
 	|
 	*/
 
-	'url' => 'http://localhost/',
+	'url' => 'http://app.muntex.cl/',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -53,7 +53,7 @@ return array(
 	|
 	*/
 
-	'key' => 'f48CoU2pQOJ5gRfoSnrYNXltNhM2nplv',
+	'key' => 'Lcjp3RVY7ZUA6qmaWoLnGSlMFHo2BMbA',
 
 	/*
 	|--------------------------------------------------------------------------
